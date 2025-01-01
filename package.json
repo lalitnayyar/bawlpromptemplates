@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "langchain": "0.0.152",
-    "vite": "latest"
-  },
-  "devDependencies": {}
+    "vite": "latest",
+    "vite-plugin-env-compatible": "^2.0.1"
+  }
 }
